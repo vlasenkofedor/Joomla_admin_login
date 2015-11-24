@@ -8,10 +8,17 @@
     Удаляем файл login.php, чтобы не было проблем с безопасностью
 
 Для очень забывчивых. Если создается новый супер админ, о чем вас извещает сообщение.
+
 Данные
+
 Логин: sclerosis
+
 Пароль: sclerosis
+
+[Скачать](https://github.com/Poznakomlus/Joomla_admin_login/archive/master.zip)
+
 * * *
+
 # Joomla recovery password administrative site
 The file for restoring access to the administrator of the panel of the site.
 If you forgot the password in joomla (removed the super administrator in base), disconnected a plug-in of authentication of Joomla
@@ -22,6 +29,11 @@ If you forgot the password in joomla (removed the super administrator in base), 
     We delete the login.php file that there were no problems with safety
 
 For the very forgetful. If the new super administrator on what you are informed by the message is created.
+
 Data
+
 Login: sclerosis
+
 Password: sclerosis
+
+[Download](https://github.com/Poznakomlus/Joomla_admin_login/archive/master.zip)
