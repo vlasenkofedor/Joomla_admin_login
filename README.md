@@ -24,8 +24,8 @@ The file for restoring access to the administrator of the panel of the site.
 If you forgot the password in joomla (removed the super administrator in base), disconnected a plug-in of authentication of Joomla
 
     We download the archive attached below.
-    Razarkhiviruyem the login.php file in a root of your site
-    We start, we enter your site / login.php into an address line
+    Unzip the login.php file in a root of your site
+    We start, we enter your site/login.php into an address line
     We delete the login.php file that there were no problems with safety
 
 For the very forgetful. If the new super administrator on what you are informed by the message is created.
